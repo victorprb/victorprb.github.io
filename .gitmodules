@@ -1,0 +1,3 @@
+[submodule "works/order-summary-component"]
+	path = works/order-summary-component
+	url = https://github.com/victorprb/order-summary-component
