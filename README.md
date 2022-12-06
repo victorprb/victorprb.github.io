@@ -1,4 +1,2 @@
-# victorprb
-
 ## Works
-- [Order Summary Component](http://victorprb.github.io/works/order-summary-component)
+- [Order Summary Component](https://victorprb.github.io/works/order-summary-component)
