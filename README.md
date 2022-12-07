@@ -1,2 +1,3 @@
 ## Works
-- [Order Summary Component](https://victorprb.github.io/works/order-summary-component)
+- [Order Summary Component](works/order-summary-component)
+- [Product Preview Component](works/product-preview-component)

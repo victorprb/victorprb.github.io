@@ -1,3 +1,6 @@
 [submodule "works/order-summary-component"]
 	path = works/order-summary-component
 	url = https://github.com/victorprb/order-summary-component
+[submodule "works/product-preview-component"]
+	path = works/product-preview-component
+	url = https://github.com/victorprb/product-preview-component
